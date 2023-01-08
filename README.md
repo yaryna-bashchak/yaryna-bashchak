@@ -4,6 +4,5 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, C++</code>
 <code>📦 Tech stack: node.js</code>
-<code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@yarynkos](https://telegram.me/yarynkos)</code>
 <code>📫 [bashchak.yaryna.22@gmail.com](mailto:bashchak.yaryna.22@gmail.com)</code>
